@@ -53,7 +53,7 @@ print(x)
 
 ## Output:
 
-![output](/l%20and%20u.png)
+![output](/l%20andu.png)
 ![output](/lu.png)
 
 ## Result:
